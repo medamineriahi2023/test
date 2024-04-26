@@ -23,6 +23,7 @@ Alternatively you can use the [Spring Boot Maven Wrapper plugin](https://maven.a
 ./mvnw spring-boot:run
 ```
 ## Browser URL
+
 Open your browser at the following URL for Swagger UI (giving REST interface details):
 
 http://localhost:9090/swagger-ui/index.html 
