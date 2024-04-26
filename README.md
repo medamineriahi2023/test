@@ -7,6 +7,7 @@ For 4th year classes (engineering degree): ESPRIT engineering school
 
 ## Requirements
 
+
 For building and running the application you need:
 
 - [JDK 1.8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
